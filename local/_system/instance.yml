@@ -1,0 +1,12 @@
+distributed:
+  mode: master
+  master:
+    host: 0.0.0.0
+    port: 4200
+    tls:
+      disabled: true
+    ipWhitelistRegex: /.*/
+    maxActiveCxn: 0
+    authToken: "#42:GyAbgJvs3Y7032hG86F0B73dO+8O2FvHuaS5tZOb+VQ="
+    enabledWorkerRemoteAccess: false
+    configHelperSocketDir: /tmp
