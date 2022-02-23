@@ -5,3 +5,4 @@ default_fleet:
 default:
   description: Default Worker Group
   tags: default
+  configVersion: 149a6ef
