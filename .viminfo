@@ -11,6 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1645657589,,"wq"
+:$
+|2,0,1645657575,,"$"
 
 # Search String History (newest to oldest):
 
@@ -23,16 +27,33 @@
 # Registers:
 
 # File marks:
-'0  28  0  ~/.ssh/id_rsa
-|4,48,28,0,1645657407,"~/.ssh/id_rsa"
+'0  19  3  ~/.gitignore
+|4,48,19,3,1645657589,"~/.gitignore"
+'1  28  0  ~/.ssh/id_rsa
+|4,49,28,0,1645657407,"~/.ssh/id_rsa"
 
 # Jumplist (newest first):
+-'  19  3  ~/.gitignore
+|4,39,19,3,1645657589,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1645657573,"~/.gitignore"
+-'  28  0  ~/.ssh/id_rsa
+|4,39,28,0,1645657407,"~/.ssh/id_rsa"
 -'  28  0  ~/.ssh/id_rsa
 |4,39,28,0,1645657407,"~/.ssh/id_rsa"
 -'  1  0  ~/.ssh/id_rsa
 |4,39,1,0,1645657404,"~/.ssh/id_rsa"
+-'  1  0  ~/.ssh/id_rsa
+|4,39,1,0,1645657404,"~/.ssh/id_rsa"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1645657588	0
+	"	19	3
+	^	19	4
+	.	19	4
+	+	19	4
 
 > ~/.ssh/id_rsa
 	*	1645657406	0

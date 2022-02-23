@@ -16,3 +16,4 @@ thirdparty/
 *.cpuprofile
 **/auth/ssh/git.key
 ### CUSTOM SECTION -- DO NOT REMOVE ###
+.ssh
