@@ -1,0 +1,7 @@
+git:
+  gitOps: none
+  authType: ssh
+  autoAction: none
+  strictHostKeyChecking: true
+  remote: git@github.com:jnudell-concanon/cribl_fanniemae.git
+  defaultCommitMessage: cc
